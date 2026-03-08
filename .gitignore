@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+vendor/
+__pycache__/
+build/
+.idea/
+.env
+*.log
+.DS_Store
