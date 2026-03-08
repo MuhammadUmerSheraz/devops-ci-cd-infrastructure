@@ -37,3 +37,12 @@ docker-compose up -d
 - [Architecture](docs/architecture.md)
 - [System Design](docs/system-design.md)
 - [Deployment](docs/deployment.md)
+
+## Contact
+
+**Muhammad Umer Sheraz** — Senior Software Engineer / Technical Lead
+
+- **Portfolio:** [muhammadumersheraz.com](https://muhammadumersheraz.com/)
+- **Email:** muhamadumersheraz@gmail.com
+- **Phone:** +923076450994
+- **LinkedIn:** [linkedin.com/in/muhammad-umer-sheraz](https://www.linkedin.com/in/muhammad-umer-sheraz/)
